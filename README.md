@@ -1,13 +1,5 @@
 Naruto run
 
-# Developed by
-
--   Rimsha Arif (FA18-BSE-006)
-
--   Arose Niazi (FA18-BSE-010)
-
--   Sannan Ali Bhatti (FA18-BSE-050)
-
 # Concepts used
 
 -   Sprites
