@@ -95,7 +95,7 @@ On colliding with a snake sannan’s audio will play.
 
 ![](media/2d6da25bb18f44580d4bd3f956e35187.png)
 
-![](media/4fd02420a098afd7471e99c91b2f2510.png)
+![](https://raw.githubusercontent.com/Arose-Niazi/Naruto-Run/main/Screenshots/Game%20Over%20PC.png)
 
 ## 
 
@@ -109,13 +109,13 @@ On colliding with a snake sannan’s audio will play.
 
 ![](media/5bd6ab0ae9be42e3ffe0e812c8bbc0c3.jpeg)
 
-![](media/0d304d0d18300d43e141f215b8306cec.jpeg)
+![](https://raw.githubusercontent.com/Arose-Niazi/Naruto-Run/main/Screenshots/Game%20Over%20A.jpg)
 
 Note: Gameplay is the same for both android and pc.
 
 # The buttons version
 
-![](media/487b1c1e68e124df6599f5887d36807c.png)
+![](https://raw.githubusercontent.com/Arose-Niazi/Naruto-Run/main/Screenshots/Game%20Over%20buttons.png)
 
 # Difference
 
