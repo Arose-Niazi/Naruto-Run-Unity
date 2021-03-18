@@ -59,41 +59,26 @@ On colliding with a snake sannan’s audio will play.
 
 ## icons
 
-![](media/d946a317a0d01e60dcdffbb30a1b1295.jpeg)![](media/adc08e4eea4f046e329cf16d9774dd5c.png)
+![](https://raw.githubusercontent.com/Arose-Niazi/Naruto-Run/main/Screenshots/ICON%20A.jpg)![](https://raw.githubusercontent.com/Arose-Niazi/Naruto-Run/main/Screenshots/ICON%20PC.png)
 
-1: aNDROID
-
-2: pc
 
 ## Splash screens
 
-![](media/436f2b5685a2a0bdb6c8dbe01ca0e73e.png)
 
-3: Android
-
-![](media/3201f576e10c0473c178bc04212cf306.jpeg)
-
-4: PC
-
-![](media/a9f3e8696d7730339610cd757ee82686.jpeg)
-
-5: android
-
-![](media/4ab748424380241cc82b3f9bd1e68649.png)
-
-6: PC
+![](https://raw.githubusercontent.com/Arose-Niazi/Naruto-Run/main/Screenshots/Start%20PC.png)
+![](https://raw.githubusercontent.com/Arose-Niazi/Naruto-Run/main/Screenshots/Start%20A.jpg)
 
 # Game play
 
 ## PC
 
-![](media/03575db442f7895201ac666e4b792de1.png)
+![](https://github.com/Arose-Niazi/Naruto-Run/blob/main/Screenshots/SS%201%20PC.png?raw=true)
 
-![](media/932b562d5c405e46104ac52db649b431.png)
+![](https://github.com/Arose-Niazi/Naruto-Run/blob/main/Screenshots/SS%202%20PC.png?raw=true)
 
-![](media/56867986ea4116634484563c550c2993.png)
+![](mhttps://github.com/Arose-Niazi/Naruto-Run/blob/main/Screenshots/Stage%202%20PC.png?raw=true)
 
-![](media/2d6da25bb18f44580d4bd3f956e35187.png)
+![](https://raw.githubusercontent.com/Arose-Niazi/Naruto-Run/main/Screenshots/Stage%203%20PC.png)
 
 ![](https://raw.githubusercontent.com/Arose-Niazi/Naruto-Run/main/Screenshots/Game%20Over%20PC.png)
 
@@ -105,9 +90,9 @@ On colliding with a snake sannan’s audio will play.
 
 ## Android
 
-![](media/6bfefb3e98b2366f441b2b31a9d85075.jpeg)
+![](https://raw.githubusercontent.com/Arose-Niazi/Naruto-Run/main/Screenshots/SS%201%20A.jpg)
 
-![](media/5bd6ab0ae9be42e3ffe0e812c8bbc0c3.jpeg)
+![](https://raw.githubusercontent.com/Arose-Niazi/Naruto-Run/main/Screenshots/SS%202%20A.jpg)
 
 ![](https://raw.githubusercontent.com/Arose-Niazi/Naruto-Run/main/Screenshots/Game%20Over%20A.jpg)
 
