@@ -59,28 +59,28 @@ On colliding with a snake sannan’s audio will play.
 
 ## icons
 
-![](https://raw.githubusercontent.com/Arose-Niazi/Naruto-Run/main/Screenshots/ICON%20A.jpg)![](https://raw.githubusercontent.com/Arose-Niazi/Naruto-Run/main/Screenshots/ICON%20PC.png)
+![](https://raw.githubusercontent.com/Arose-Niazi/Naruto-Run-Unity/main/Screenshots/ICON%20A.jpg)![](https://raw.githubusercontent.com/Arose-Niazi/Naruto-Run-Unity/main/Screenshots/ICON%20PC.png)
 
 
 ## Splash screens
 
 
-![](https://raw.githubusercontent.com/Arose-Niazi/Naruto-Run/main/Screenshots/Start%20PC.png)
-![](https://raw.githubusercontent.com/Arose-Niazi/Naruto-Run/main/Screenshots/Start%20A.jpg)
+![](https://raw.githubusercontent.com/Arose-Niazi/Naruto-Run-Unity-Unity/main/Screenshots/Start%20PC.png)
+![](https://raw.githubusercontent.com/Arose-Niazi/Naruto-Run-Unity-Unity/main/Screenshots/Start%20A.jpg)
 
 # Game play
 
 ## PC
 
-![](https://github.com/Arose-Niazi/Naruto-Run/blob/main/Screenshots/SS%201%20PC.png?raw=true)
+![](https://github.com/Arose-Niazi/Naruto-Run-Unity/blob/main/Screenshots/SS%201%20PC.png?raw=true)
 
-![](https://github.com/Arose-Niazi/Naruto-Run/blob/main/Screenshots/SS%202%20PC.png?raw=true)
+![](https://github.com/Arose-Niazi/Naruto-Run-Unity/blob/main/Screenshots/SS%202%20PC.png?raw=true)
 
-![](mhttps://github.com/Arose-Niazi/Naruto-Run/blob/main/Screenshots/Stage%202%20PC.png?raw=true)
+![](mhttps://github.com/Arose-Niazi/Naruto-Run-Unity/blob/main/Screenshots/Stage%202%20PC.png?raw=true)
 
-![](https://raw.githubusercontent.com/Arose-Niazi/Naruto-Run/main/Screenshots/Stage%203%20PC.png)
+![](https://raw.githubusercontent.com/Arose-Niazi/Naruto-Run-Unity/main/Screenshots/Stage%203%20PC.png)
 
-![](https://raw.githubusercontent.com/Arose-Niazi/Naruto-Run/main/Screenshots/Game%20Over%20PC.png)
+![](https://raw.githubusercontent.com/Arose-Niazi/Naruto-Run-Unity/main/Screenshots/Game%20Over%20PC.png)
 
 ## 
 
@@ -90,17 +90,17 @@ On colliding with a snake sannan’s audio will play.
 
 ## Android
 
-![](https://raw.githubusercontent.com/Arose-Niazi/Naruto-Run/main/Screenshots/SS%201%20A.jpg)
+![](https://raw.githubusercontent.com/Arose-Niazi/Naruto-Run-Unity/main/Screenshots/SS%201%20A.jpg)
 
-![](https://raw.githubusercontent.com/Arose-Niazi/Naruto-Run/main/Screenshots/SS%202%20A.jpg)
+![](https://raw.githubusercontent.com/Arose-Niazi/Naruto-Run-Unity/main/Screenshots/SS%202%20A.jpg)
 
-![](https://raw.githubusercontent.com/Arose-Niazi/Naruto-Run/main/Screenshots/Game%20Over%20A.jpg)
+![](https://raw.githubusercontent.com/Arose-Niazi/Naruto-Run-Unity/main/Screenshots/Game%20Over%20A.jpg)
 
 Note: Gameplay is the same for both android and pc.
 
 # The buttons version
 
-![](https://raw.githubusercontent.com/Arose-Niazi/Naruto-Run/main/Screenshots/Game%20Over%20buttons.png)
+![](https://raw.githubusercontent.com/Arose-Niazi/Naruto-Run-Unity/main/Screenshots/Game%20Over%20buttons.png)
 
 # Difference
 
